@@ -1,0 +1,16 @@
+flask
+flask-sqlalchemy
+deepface
+pytesseract
+opencv-python
+pillow
+transformers
+nltk
+textstat
+scikit-learn
+numpy
+pandas
+matplotlib
+flask
+flask_sqlalchemy
+

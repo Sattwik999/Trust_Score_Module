@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+*.env
+.env.*
+venv/
+# Python cache and temp files
+__pycache__/
+*.pyc
+temp/
+*.db
+# IDE/config files
+.vscode/
+*.log
